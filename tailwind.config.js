@@ -1,6 +1,11 @@
+
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode: ["class"],
+  fontFamily: {
+    times: ["'Times New Roman'", "serif"],
+  },
   content: [
     "./pages/**/*.{ts,tsx}",
     "./components/**/*.{ts,tsx}",
