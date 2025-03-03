@@ -234,7 +234,7 @@ export default function Home() {
         {/* Footer */}
         <footer className="relative z-10 p-4 text-center text-sm">
           <div className="flex justify-center gap-4 mb-2">
-            <button className="bg-white rounded-3xl p-3 shadow-2xl font-medium text-sm">
+            <button className="bg-white  rounded-3xl p-3 shadow-2xl font-medium text-sm">
               AJOUTER À CHROME
             </button>
             <button className="bg-white rounded-3xl p-3 shadow-2xl font-medium text-sm">
